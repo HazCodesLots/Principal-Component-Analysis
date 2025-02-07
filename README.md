@@ -1,3 +1,3 @@
 # Principal-Component-Analysis
- Principal component analysis on a temp made up dataset
+ Principal component analysis
  Top and bottom Premier League teams
